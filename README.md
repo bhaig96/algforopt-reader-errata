@@ -8,5 +8,6 @@
 1. Eq. 5.13: There are missing parentheses around the section before the transpose.
 1. Eq. 8.19: It should sum to 1, not 0, to be consistent with text.
 1. Eq. 8.20: After the ln should be an i.
+1. Eq. 10.41: The last i subscript should be a j.
 1. Alg. 16.5: Potential maximizers should be potential minimizers with `M[S] = l[S] .< minimum(u[S])`. The function signature should be `compute_sets!(GP, S, M, E, X, u, l, y_max, β)`
 1. Sec. C.2: Second sentence after C.10, replace "infinitely differentiable" with "analytic" and also add "within a local neighborhood".
