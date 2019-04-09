@@ -4,6 +4,7 @@
 1. Exercise 2.4 solution: There should be an equals sign before the last 4.
 1. Sec 3.1: For simplicity, it's easier to use the definition of unimodality where f is monotonically decreasing for x <= x^* and monotonically increasing for x >= x. Then in the second paragraph we have f(a) > f(b) < f(c).
 1. Ch. 4: Figure labels for approximate line search have missing f after nabla.
+1. Example 4.2: Typo - "satisfied" is twice misspelled as "satisifed."
 1. Sec. 4.4 last paragraph: Delta y_pred / Delta y_act should be Delta y_act / Delta y_pred. 
 1. Eq. 5.13: There are missing parentheses around the section before the transpose.
 1. Eq. 8.19: It should sum to 1, not 0, to be consistent with text.
