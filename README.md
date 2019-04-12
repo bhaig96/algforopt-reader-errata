@@ -6,6 +6,7 @@
 1. Ch. 4: Figure labels for approximate line search have missing f after nabla.
 1. Example 4.2: Typo - "satisfied" is twice misspelled as "satisifed."
 1. Sec. 4.4 last paragraph: Delta y_pred / Delta y_act should be Delta y_act / Delta y_pred. 
+1. Sec 4.5 Typo - "termination" is misspelled as "terminiation"
 1. Eq. 5.13: There are missing parentheses around the section before the transpose.
 1. Eq. 8.19: It should sum to 1, not 0, to be consistent with text.
 1. Eq. 8.20: After the ln should be an i.
